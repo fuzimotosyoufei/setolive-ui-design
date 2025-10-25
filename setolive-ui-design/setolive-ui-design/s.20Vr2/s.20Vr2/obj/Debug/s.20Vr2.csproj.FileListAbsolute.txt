@@ -1,0 +1,12 @@
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\bin\Debug\s.20Vr2.exe.config
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\bin\Debug\s.20Vr2.exe
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\bin\Debug\s.20Vr2.pdb
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\obj\Debug\s.20Vr2.csproj.AssemblyReference.cache
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\obj\Debug\s._20Vr2.Properties.Resources.resources
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\obj\Debug\s._20Vr2.StoMain.resources
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\obj\Debug\s.20Vr2.csproj.GenerateResource.cache
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\obj\Debug\s.20Vr2.csproj.CoreCompileInputs.cache
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\obj\Debug\s.20Vr2.exe
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\obj\Debug\s.20Vr2.pdb
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\obj\Debug\s.20Vr2.exe.config
+C:\第２０回ものづくり大会\s.20Vr2\s.20Vr2\obj\Debug\s._20Vr2.Form1.resources
