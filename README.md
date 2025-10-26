@@ -1,4 +1,4 @@
-# 初めに
+<img width="658" height="75" alt="image" src="https://github.com/user-attachments/assets/d9e19e35-f815-4d0e-9653-de832a4a01c3" /># 初めに
 このリポジトリでは、架空のペルソナを設定し、そのペルソナが望むプロダクトや機能を想定して作成したものをまとめています。  
 ペルソナのニーズに基づいたデザインや機能の考え方を示すことを目的としています。
 # アプリのコンセプト 
@@ -29,8 +29,13 @@
 
 ## 🌿 デザイン（GitHub上）
 - アプリの画面イメージをGitHub上で確認できます
-setolive-ui-design/setolive-ui-design/images/スクリーンショット 2025-07-10 165307.png
+- ログイン画面
+<img src="setolive-ui-design/setolive-ui-design/images/スクリーンショット 2025-10-26 123410.png" alt="ログイン画面" width="50%">
+- 受注作業を行う画面
 <img src="setolive-ui-design/setolive-ui-design/images/スクリーンショット%202025-10-26%20123151.png" alt="ダッシュボード画面" width="50%">
+<img src="setolive-ui-design/setolive-ui-design/images/スクリーンショット 2025-10-26 123159.png" alt="商品詳細画面" width="50%">
+<img src="setolive-ui-design/setolive-ui-design/images/スクリーンショット 2025-10-26 123300.png" alt="分析画面" width="50%">
+
 
 ![受注カード画面](images/order_cards.png)
 
