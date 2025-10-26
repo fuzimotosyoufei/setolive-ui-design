@@ -44,7 +44,7 @@
 
 ## 📊 設計資料（Google Drive）
 - [要件定義書（PDF）](リンク)  
-- [画面遷移図（PNG）](setolive-ui-design/setolive-ui-design/images/画面遷移図.drawio.png)  
+- [画面遷移図（PNG）](setolive-ui-design/setolive-ui-design/images/画面遷移図ファイル%20(2).drawio.png)  
 - [ユースケース図（draw.io）](リンク)  
 - [DFD（draw.io）](リンク)  
 - [ER図（PNG）](リンク)  
