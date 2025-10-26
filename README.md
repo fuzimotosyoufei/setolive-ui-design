@@ -43,13 +43,15 @@
 ---
 
 ## 📊 設計資料（Google Drive）
-- [要件定義書（PDF）](リンク)  
-- [画面遷移図（PNG）](setolive-ui-design/setolive-ui-design/images/画面遷移図ファイル%20(2).drawio.png)  
-- [ユースケース図（draw.io）](setolive-ui-design/setolive-ui-design/images/ユースケース図ファイル.drawio.png)  
-- [DFD（draw.io）](リンク)  
-- [ER図（PNG）](リンク)  
-
-> 💡 設計資料は、draw.ioで作成したものをPDFやPNGに変換して共有しています。
+- [要件定義書（PDF）](setolive-ui-design/setolive-ui-design/要件定義修正.md)  
+- [画面遷移図（draw.io PNG）](setolive-ui-design/setolive-ui-design/images/画面遷移図ファイル%20(2).drawio.png)  
+- [ユースケース図（draw.io PNG）](setolive-ui-design/setolive-ui-design/images/ユースケース図ファイル.drawio.png)  
+- [ER図（draw.io PNG）](setolive-ui-design/setolive-ui-design/images/ER図ファイル.drawio.png)
+- [アプリ仕様書受注画面（draw.io PNG）](setolive-ui-design/setolive-ui-design/images/アプリ仕様書受注画面(3)-ページ1.drawio.png)
+- [アプリ仕様書商品画面（draw.io PNG）](setolive-ui-design/setolive-ui-design/images/アプリ仕様書syou-ページ4.drawio.png)
+- [アプリ仕様書分析画面（draw.io PNG）](setolive-ui-design/setolive-ui-design/images/アプリ仕様書分析(3)-ページ5.drawio.png)
+- [アプリ仕様書使い方（draw.io PNG）](setolive-ui-design/setolive-ui-design/images/アプリ仕様書使い方-ページ6.drawio.png)
+> 💡 設計資料は、draw.ioで作成したものをPNGで保存しています
 
 ---
 
@@ -73,10 +75,9 @@
 
 ## 🪴 開発の目的
 店舗業務を「早く・正確に・楽しく」する。  
-店員が笑顔で接客できる時間を増やすための業務支援アプリです。
+売り上げ分析を行うことで売り上げ上昇を行う
 
 ---
 
-## 📄 ライセンス
-このプロジェクトは [MIT License](LICENSE) のもとで公開しています。
+
 
