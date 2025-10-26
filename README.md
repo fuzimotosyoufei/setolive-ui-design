@@ -30,7 +30,8 @@
 ## 🌿 デザイン（GitHub上）
 - アプリの画面イメージをGitHub上で確認できます
 setolive-ui-design/setolive-ui-design/images/スクリーンショット 2025-07-10 165307.png
-![ダッシュボード画面](setolive-ui-design/setolive-ui-design/images/スクリーンショット%202025-10-26%20123151.png)
+<img src="setolive-ui-design/setolive-ui-design/images/スクリーンショット%202025-10-26%20123151.png" alt="ダッシュボード画面" width="50%">
+
 ![受注カード画面](images/order_cards.png)
 
 ---
