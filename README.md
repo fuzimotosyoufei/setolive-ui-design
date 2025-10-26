@@ -29,7 +29,6 @@
 
 ## 🌿 デザイン（GitHub上）
 - アプリの画面イメージをGitHub上で確認できます
-- ログイン画面
 <img src="setolive-ui-design/setolive-ui-design/images/スクリーンショット 2025-10-26 123410.png" alt="ログイン画面" width="50%">
 - 受注作業を行う画面
 <img src="setolive-ui-design/setolive-ui-design/images/スクリーンショット%202025-10-26%20123151.png" alt="ダッシュボード画面" width="50%">
