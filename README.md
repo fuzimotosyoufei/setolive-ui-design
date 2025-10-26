@@ -37,7 +37,9 @@
 <img src="setolive-ui-design/setolive-ui-design/images/スクリーンショット 2025-10-26 123300.png" alt="分析画面" width="50%">
 
 
-![受注カード画面](images/order_cards.png)
+詳細は
+- 要件定義書
+- アプリケーション仕様書　参照
 
 ---
 
